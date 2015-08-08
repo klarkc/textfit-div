@@ -1,0 +1,36 @@
+{
+  "name": "textfit-div",
+  "authors": [
+    "Roman Kaufmann <roman.kaufmann.at@gmail.com>"
+  ],
+  "keywords": [
+    "polymer",
+    "web-components",
+    "textFit"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "textfit": "STRML/textFit#~2.2.2",
+    "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#~1.0.2",
+    "iron-flex-layout": "PolymerElements/iron-flex-layout#~1.0.3",
+    "paper-styles": "PolymerElements/paper-styles#~1.0.11"
+  },
+  "homepage": "https://github.com/Protoss78/textfit-div",
+  "_release": "be31e9f4d0",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "be31e9f4d08f7d959dfa70ad51f07a19e049007d"
+  },
+  "_source": "git://github.com/Protoss78/textfit-div.git",
+  "_target": "*",
+  "_originalSource": "Protoss78/textfit-div",
+  "_direct": true
+}
